@@ -1,0 +1,2 @@
+# resorces
+required dependecies

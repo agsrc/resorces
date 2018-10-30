@@ -182,3 +182,4 @@ Successfully tagged 566965401352.dkr.ecr.us-west-2.amazonaws.com/mythicalmysfits
 #analyze BigData With Hadoop
 >
 
+![image](https://raw.githubusercontent.com/agsrc/resorces/master/images/2.PNG)
